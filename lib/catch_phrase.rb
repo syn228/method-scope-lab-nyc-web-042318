@@ -1,3 +1,4 @@
-def catch_phrase(phrase)
+def catch_phrase
+  phase = 
   puts phrase
 end
