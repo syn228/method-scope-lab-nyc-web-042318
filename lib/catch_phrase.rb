@@ -1,4 +1,5 @@
 def catch_phrase
-  phase = 
+  rescue_princess_peach
+puts status
   puts phrase
 end
