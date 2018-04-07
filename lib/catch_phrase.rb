@@ -1,5 +1,4 @@
 def catch_phrase
-  rescue_princess_peach
-puts status
+  phrase = "It's-a me, Mario!"
   puts phrase
 end
